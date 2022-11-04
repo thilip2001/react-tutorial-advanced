@@ -1,9 +1,9 @@
-import React from 'react';
-import Setup from './ControlledInputs';
+import React from 'react'
+import Setup from '../src/Setup/MultipleInputs';
 
 function App() {
   return (
-    <div>
+    <div className='container'>
       <Setup/>
     </div>
   )

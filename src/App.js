@@ -1,10 +1,11 @@
 import React from 'react'
-import Setup from '../src/Setup/MultipleInputs';
+import UseRefBasics from './Setup/UseRefBasics'
+
 
 function App() {
   return (
     <div className='container'>
-      <Setup/>
+      <UseRefBasics/>
     </div>
   )
 }
